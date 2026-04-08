@@ -109,12 +109,12 @@ Netflix-Data-Analysis/
 
 ## 📸 Dashboard Preview
 
-
+https://github.com/RohitOPPA/Netflix-Data-Analysis/blob/main/Dashboard.png
 
 ---
 
 ## 📬 Contact
 
-* LinkedIn: 
+* LinkedIn: https://www.linkedin.com/in/rohit-gupta-10b675365
 
 ---
